@@ -1,0 +1,1190 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.5) url("Screenshot_20220922-174410_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    height: 640px;
+
+}
+
+.im img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding-top: 20px;
+    padding-left: 5px;
+}
+
+.anchor button {
+    margin-left: 30px;
+    border: none;
+    background-color: transparent;
+    padding-top: 30px;
+}
+
+.anchor button:hover {
+    border-bottom: 2px solid wheat;
+}
+
+.anchor a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.login a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.login button {
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.gen {
+    display: flex;
+    gap: 300px;
+
+}
+
+.helo {
+    padding-top: 150px;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+}
+
+.nam {
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+    color: white;
+    font-size: 40px;
+}
+
+.am {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.non i {
+    color: white;
+    margin-left: 20px;
+    padding-bottom: 80px;
+    font-size: 20px;
+
+}
+
+.non i:hover {
+    border: 1px solid white;
+    padding: 9px;
+    border-radius: 50%;
+    color: white;
+    background-color: #ccc;
+}
+
+.noo {
+    margin-left: 580px;
+}
+
+.anch button {
+    background-color: transparent;
+    border: none;
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
+
+.anch button:hover {
+    border-bottom: 2px solid limegreen;
+}
+
+.ge {
+    display: flex;
+    gap: 320px;
+    background-color: white;
+    padding-bottom: 10px;
+
+}
+
+.anch a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.log button {
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 1px solid black;
+    background-color: limegreen;
+}
+
+.log button:hover {
+    border: 3px solid limegreen;
+    background-color: transparent;
+}
+
+.log a {
+    color: black;
+    text-decoration: none;
+}
+
+.log a:hover {
+    color: limegreen;
+    font-weight: bold;
+}
+
+.hi img {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    filter: drop-shadow(1px 1px 20px limegreen);
+}
+
+.li button {
+    width: 140px;
+    height: 40px;
+    background-color: limegreen;
+    border: none;
+    border-radius: 20px;
+
+}
+
+.li button:hover {
+    background-color: transparent;
+    border: 1px solid limegreen;
+}
+
+.li a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+.li a:hover {
+    color: limegreen;
+}
+
+.ki {
+    display: flex;
+    gap: 200px;
+    background-color: black;
+    padding-left: 80px;
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+
+.ki p {
+    word-spacing: 10px;
+    line-height: 30px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
+
+}
+
+.ki h2 {
+    color: limegreen;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.love h2 {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+}
+
+.love p {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.mke i {
+    font-size: 20px;
+    color: rgb(83, 82, 82);
+    width: 60px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 17px;
+    border-radius: 50%;
+    margin-left: 145px;
+
+}
+
+.mke {
+    width: 340px;
+    height: 140px;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 14px;
+    filter: drop-shadow(1px 1px 1px 20px #ccc);
+    transition: .3 all ease;
+}
+
+.mke:hover {
+    transform: scale(1.1);
+}
+
+.mj {
+    display: flex;
+    gap: 60px;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.jm {
+    display: flex;
+    gap: 60px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.mke h3 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.mke p {
+    text-align: center;
+    font-size: 10px;
+    word-spacing: 3px;
+    line-height: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.do hr {
+    width: 100px;
+    margin-left: 620px;
+    margin-top: 20px;
+}
+
+.do {
+    background-color: #f3efef;
+    padding-bottom: 80px;
+}
+
+.hi {
+    width: 200px;
+    height: 150px;
+    margin-left: 6px;
+}
+
+.por {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    color: rgb(233, 233, 233);
+}
+
+.si {
+    background-color: rgb(34, 34, 34);
+    padding-bottom: 60px;
+}
+
+.wa {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    color: rgb(233, 233, 233);
+}
+
+.ij {
+
+    width: 250px;
+    height: 290px;
+    padding-top: 10px;
+    padding-left: 40px;
+    background-color: rgb(233, 233, 233);
+    border-radius: 10px;
+    transition: .3 all ease;
+}
+
+.ij:hover {
+    transform: scale(1.1);
+}
+
+.je {
+    margin-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.we {
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.mi {
+    display: flex;
+    gap: 120px;
+    margin-left: 130px;
+    margin-bottom: 60px;
+}
+
+.ar {
+    display: flex;
+    gap: 120px;
+    margin-top: 20px;
+    margin-left: 130px;
+
+}
+
+.tn {
+    width: 110px;
+    height: 25px;
+    background-color: transparent;
+    border-radius: 7px;
+    border: 1px solid black;
+}
+
+.tn a {
+    font-size: 9px;
+    text-decoration: none;
+    color: black;
+}
+
+.nt {
+    width: 110px;
+    height: 25px;
+    margin-left: 10px;
+    background-color: black;
+    border-radius: 7px;
+    border: none;
+}
+
+.nt a {
+    font-size: 9px;
+    text-decoration: none;
+    color: rgb(233, 233, 233);
+}
+
+.jb {
+    display: flex;
+}
+
+.og button {
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 1px solid black;
+    background-color: rgb(233, 233, 233);
+
+}
+
+.og a {
+    color: black;
+    text-decoration: none;
+}
+
+.bt {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+.lf {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.kg {
+    width: 100px;
+    font-weight: bold;
+    margin-left: 625px;
+    margin-top: 25px;
+    color: black;
+}
+
+.mf {
+    width: 320px;
+    height: 200px;
+}
+
+.bp {
+    font-size: 10px;
+    line-height: 15px;
+    word-spacing: 1px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+.ag {
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.lgg {
+    background-color: transparent;
+    border: none;
+    margin-left: 15px;
+}
+
+.kp {
+    text-decoration: none;
+    color: black;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.lgg i {
+    margin-left: 6px;
+}
+
+.iml {
+    width: 320px;
+    background-color: white;
+    box-shadow: 1px 1px 40px #ccc;
+    padding-bottom: 10px;
+    margin-top: auto;
+    transition: .3 all ease;
+}
+
+.iml:hover {
+    transform: scale(1.1);
+}
+
+.jh {
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.g {
+    display: flex;
+    gap: 60px;
+    margin-left: 150px;
+    margin-top: 50px;
+    padding-bottom: 90px;
+}
+
+.kbm {
+    background-color: rgb(250, 249, 249);
+}
+
+.gb button {
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 1px solid black;
+    background-color: black;
+
+}
+
+.gb button:hover {
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+.gb a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.gb a:hover {
+    color: black;
+}
+
+.ah button {
+    background-color: transparent;
+    border: none;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.ah button:hover {
+    border-bottom: 2px solid black;
+
+}
+
+.ah a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.gv {
+    padding-top: 30px;
+    font-weight: light;
+    color: rgb(105, 103, 103);
+}
+
+.gv i {
+    color: rgb(105, 103, 103);
+    padding-right: 10px;
+}
+
+.ng {
+    font-weight: light;
+    color: rgb(105, 103, 103);
+    padding-top: 20px;
+}
+
+.ng i {
+    color: rgb(105, 103, 103);
+    padding-right: 10px;
+}
+
+.af {
+    font-weight: light;
+    color: rgb(105, 103, 103);
+    padding-top: 20px;
+}
+
+.af i {
+    color: rgb(105, 103, 103);
+    padding-right: 10px;
+}
+
+.ld {
+    font-weight: light;
+    color: rgb(105, 103, 103);
+    padding-top: 20px;
+}
+
+.ld i {
+    color: rgb(105, 103, 103);
+    padding-right: 10px;
+}
+
+.un {
+    width: 300px;
+    height: 30px;
+    margin-top: 30px;
+    border: 1px solid rgb(212, 210, 210);
+    background-color: transparent;
+}
+
+.nu {
+    width: 300px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border: 1px solid rgb(212, 210, 210);
+    background-color: transparent;
+}
+
+.th {
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+    border: 1px solid rgb(212, 210, 210);
+    background-color: transparent;
+}
+
+.ed {
+    width: 300px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(212, 210, 210);
+    background-color: transparent;
+}
+
+.dr {
+    width: 630px;
+    padding-bottom: 90px;
+    padding-top: 18px;
+    margin-top: 20px;
+    border: 1px solid rgb(212, 210, 210);
+    background-color: transparent;
+}
+
+.gm {
+    width: 130px;
+    height: 30px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin-top: 20px;
+}
+
+.gm:hover {
+    background-color: rgb(43, 43, 70);
+    color: white;
+
+}
+
+.ma {
+    display: flex;
+    gap: 100px;
+    padding-left: 150px;
+    padding-top: 90px;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 60px;
+}
+
+.m {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding-top: 40px;
+    padding-left: 5px;
+
+    margin-left: 650px;
+}
+
+.nn {
+    border: 1px solid white;
+    padding: 9px;
+    border-radius: 50%;
+    color: white;
+}
+
+.nn:hover {
+    background-color: rgb(206, 206, 204);
+}
+
+.no {
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.wth {
+    text-align: center;
+    font-size: 9px;
+    padding-top: 30px;
+    color: rgb(206, 206, 204);
+}
+
+.wth span {
+    font-size: 11px;
+    color: white;
+}
+
+.din {
+    text-align: center;
+    font-size: 9px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    color: rgb(206, 206, 204);
+}
+
+.hd {
+    background-color: rgb(43, 43, 70);
+}
+
+.b button {
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 1px solid black;
+    background-color: rgb(43, 43, 70);
+
+}
+
+.b button:hover {
+    background-color: transparent;
+    border: 1px solid rgb(43, 43, 70);
+}
+
+.b a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.b a:hover {
+    color: rgb(43, 43, 70);
+}
+
+@media (min-device-width: 0px) and (max-device-width: 360px) {
+    .im img {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        padding-top: 20px;
+        padding-left: 5px;
+    }
+
+    .anchor a {
+
+        font-size: 7px;
+    }
+
+    .anchor button {
+        margin-left: auto;
+        margin-left: 2px;
+        padding-top: auto;
+        padding-top: 5px;
+    }
+
+    .anchor {
+        display: flex;
+        gap: 5px;
+        
+    }
+
+    .login a {
+        font-size: 7px;
+    }
+
+    .login button {
+        width: 50px;
+        height: 20px;
+        border-radius: 5px;
+        border: none;
+        margin-top: 20px;
+        margin-right: 5px;
+        margin-left: 10px;
+    }
+
+    .gen {
+        display: flex;
+        gap: 15px;
+
+    }
+    .helo {
+        padding-top: 100px;
+        text-align: center;
+        font-size: 11px;
+    }
+    
+    .nam {
+        text-align: center;
+        padding-top: 30px;
+        font-size: 19px;
+    }
+    
+    .am {
+        text-align: center;
+        font-size: 11px;
+        padding-bottom: 20px;
+        padding-top: 15px;
+    }
+    .noo {
+        margin-left: auto;
+        margin-left: 90px;
+    }
+    .noo i{
+        font-size: 10px;
+        margin-top: 15px;
+    }
+    .anch button {
+        margin-top: 20px;
+        margin-left: auto;
+    
+    }
+
+    .ge {
+        display: flex;
+        gap: 15px;
+        background-color: white;
+        padding-bottom: 10px;
+    
+    }
+    .anch{
+        display: flex;
+        gap: 5px;
+    }
+    
+    .anch a {
+        color: black;
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 7px;
+    
+    }
+    
+    .log button {
+        width: 50px;
+        height: 20px;
+        margin-top: 26px;
+        margin-left: 16px;
+    
+    }
+    
+    .log button:hover {
+        border: 3px solid limegreen;
+        background-color: transparent;
+    }
+    
+    .log a {
+        color: black;
+        text-decoration: none;
+        font-size: 7px;
+    }
+    .hi img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin-left: auto;
+        margin-left: 40px;
+        margin-top: 50px;
+    }
+    .ki {
+        display: block;
+        background-color: black;
+        padding-top: 70px;
+        padding-left: 10px;
+        padding-bottom: 20px;
+    }
+    .ki p {
+        word-spacing: 2px;
+        line-height: auto;
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-size: 9px;
+    
+    
+    
+    }
+    
+    .ki h2 {
+        color: limegreen;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        font-size: 15px;
+    }
+    .li button {
+        width: 60px;
+        height: 20px;
+        background-color: limegreen;
+        border: none;
+        border-radius: 20px;
+        margin-left: 10px;
+    }
+   .li a{
+        font-size: 9px;
+    }
+    .li{
+        margin-left: 80px;
+    }
+    .love h2 {
+        padding-top: 110px;
+        font-size: 15px;
+    }
+    
+    .love p {
+        padding-top: 20px;
+        font-size: 9px;
+    }
+    .mke i {
+        width: auto;
+        height: auto;
+        text-align: center;
+        padding-top: auto;
+        margin-left: 100px;
+        padding: 10px;
+        font-size: 9px;
+    
+    }
+    
+    .mke {
+        width: 240px;
+        height: 140px;
+        padding-top: 30px;
+        padding-bottom: 20px;
+        margin-top: 70px;
+    }
+    .mj {
+        display: block;
+        margin-left: 50px;
+        margin-top: 30px;
+    }
+    
+    .jm {
+        display: block;
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+    
+    .mke h3 {
+        text-align: center;
+        padding-top: 10px;
+        font-size: 15px;
+    }
+    
+    .mke p {
+        text-align: center;
+        font-size: 9px;
+        word-spacing: 3px;
+        line-height: 15px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+    .do hr {
+        width: 100px;
+        margin-left: 120px;
+        margin-top: 20px;
+    }
+    .ah button {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+    .ah a{
+        font-size: 8px;
+    }
+    .ah{
+        display: flex;
+        gap: 6px;
+    }
+    .gb button {
+        width: 60px;
+        height: 20px;
+        margin-top: 30px;
+        font-size: 8px;
+    
+    }
+    .por {
+        text-align: center;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .si {
+        background-color: rgb(34, 34, 34);
+        padding-bottom: 60px;
+    }
+    
+    .wa {
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 30px;
+        font-size: 9px;
+    }
+    .mi {
+        display: block;
+        margin-left: 45px;
+        margin-bottom: 60px;
+    }
+    .ar {
+        display: block;
+        margin-top: 0px;
+        margin-left: 45px;
+    
+    }
+    .ij {
+
+        width: 210px;
+        height: 210px;
+        padding-top: 15px;
+        margin-top: 25px;
+
+    }
+    .hi {
+        width: 170px;
+        height: 80px;
+        margin-left: 10px;
+    }
+    .tn {
+        width: 90px;
+        height: 20px;
+    }
+    
+    .tn a {
+        font-size: 6px;
+        text-decoration: none;
+        color: black;
+    }
+    
+    .nt {
+        width: 90px;
+        height: 20px;
+        margin-left: 10px;
+    }
+    
+    .nt a {
+        font-size: 6px;
+    }
+    .je{
+        font-size: 15px;
+    }
+    .we{
+        font-size: 9px;
+    }
+    .bt {
+        font-size: 15px;
+    }
+    
+    .lf {
+        font-size: 9px;
+    }
+    
+    .kg {
+        margin-left: 120px;
+    }
+    .g {
+        display: block;
+        margin-left: 50px;
+        margin-top: 50px;
+        padding-bottom: 90px;
+    }
+    .mf {
+        width: 240px;
+        height: 150px;
+        
+    }
+    .iml {
+        width: 240px;
+        margin-top: 30px;
+    }
+    .jh{
+        font-size: 11px;
+    }
+    .ag{
+        font-size: 15px;
+    }
+    .b button {
+        width: 60px;
+        height: 20px;
+        border-radius: 5px;
+        margin-top: 30px;
+    
+    }
+    .b a    {
+        font-size: 8px;
+    }
+    .ma {
+        display: block;
+        padding-left: 50px;
+        padding-top: 90px;
+        background-color: rgb(250, 249, 249);
+        padding-bottom: 60px;
+    }
+    .gv {
+       font-size: 11px;
+    }
+    
+
+    .ng {
+        font-size: 11px;
+    }
+    
+    .ng i {
+        color: rgb(105, 103, 103);
+        padding-right: 10px;
+    }
+    
+    .af {
+       font-size: 11px;
+    }
+    
+    .af i {
+        color: rgb(105, 103, 103);
+        padding-right: 10px;
+    }
+    
+    .ld {
+       font-size: 11px;
+    }
+    
+    .ld i {
+        color: rgb(105, 103, 103);
+        padding-right: 10px;
+    }
+    
+    .un {
+        width: 300px;
+        height: 30px;
+        margin-top: 30px;
+        border: 1px solid rgb(212, 210, 210);
+        background-color: transparent;
+    }
+    .vg{
+        font-size: 15px;
+    }
+    .cbo{
+        font-size: 15px;
+    }
+    .un {
+        width: 200px;
+        height: 30px;
+        margin-top: 30px;
+       
+    }
+    
+    .nu {
+        width: 200px;
+        height: 30px;
+        margin-left: 0px;
+        margin-top: 30px;
+      
+    }
+    
+    .th {
+        width: 200px;
+        height: 30px;
+        margin-top: 20px;
+       
+    }
+    
+    .ed {
+        width: 200px;
+        height: 30px;
+        margin-left: 0px;
+        margin-top: 20px;
+
+    }
+    
+    .dr {
+        width: 200px;
+        padding-bottom: 90px;
+        padding-top: 18px;
+        margin-top: 20px;
+        
+    }
+    .m {
+        width: 50px;
+        height: 50px;
+    
+        margin-left: 130px;
+    }
+    
+    .nn {
+        padding: 9px;
+        font-size: 11px;
+    }
+
+    .no {
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+    .co{
+        background-color: white;
+        width: 230px;
+        padding-left: 20px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        margin-top: 30px;
+        border-radius: 10px;
+        box-shadow: 2px 2px 2px 27px  rgb(250, 249, 249);
+    }   
+    
+    
+    
+    
+}
