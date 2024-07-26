@@ -740,7 +740,7 @@
 
     .anchor {
         display: flex;
-        gap: 5px;
+        gap: 6px;
         
     }
 
@@ -804,7 +804,7 @@
     }
     .anch{
         display: flex;
-        gap: 5px;
+        gap: 6px;
     }
     
     .anch a {
@@ -838,7 +838,7 @@
         height: 200px;
         border-radius: 50%;
         margin-left: auto;
-        margin-left: 40px;
+        margin-left: 46px;
         margin-top: 50px;
     }
     .ki {
@@ -1181,10 +1181,11 @@
         padding-bottom: 15px;
         margin-top: 30px;
         border-radius: 10px;
-        box-shadow: 2px 2px 2px 27px  rgb(250, 249, 249);
+        box-shadow: 1px 1px 40px #ccc;
     }   
     .container{
         background-image: url("Screenshot_20220922-174410_1\ \(2\).jpg");
+        padding-bottom: 40px;
     }
     
     
