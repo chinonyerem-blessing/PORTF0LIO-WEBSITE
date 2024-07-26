@@ -717,7 +717,7 @@
     color: rgb(43, 43, 70);
 }
 
-@media (min-device-width: 0px) and (max-device-width: 360px) {
+@media (max-width: 360px) {
     .im img {
         width: 30px;
         height: 30px;
@@ -740,7 +740,7 @@
 
     .anchor {
         display: flex;
-        gap: 6px;
+        gap: 5px;
         
     }
 
@@ -804,7 +804,7 @@
     }
     .anch{
         display: flex;
-        gap: 6px;
+        gap: 4px;
     }
     
     .anch a {
@@ -949,7 +949,7 @@
     }
     .ah{
         display: flex;
-        gap: 6px;
+        gap: 4px;
     }
     .gb button {
         width: 60px;
