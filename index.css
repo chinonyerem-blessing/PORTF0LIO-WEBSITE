@@ -769,7 +769,7 @@
 
     .gen {
         display: flex;
-        gap: 21px;
+        gap: 30px;
 
     }
     .helo {
@@ -806,7 +806,7 @@
 
     .ge {
         display: flex;
-        gap: 21px;
+        gap: 30px;
         background-color: white;
         padding-bottom: 10px;
     
