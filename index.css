@@ -946,12 +946,8 @@
     }
     .do hr {
         width: 100px;
-        
+        margin-left: 120px;
         margin-top: 20px;
-    }
-    .do {
-        display: flex;
-        justify-content: center;
     }
     .ah button {
         margin-top: 20px;
